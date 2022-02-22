@@ -153,7 +153,7 @@ D: When there is a need to create nested components.
 Q23: What are components?
 
 A: Components are modular data fetched from server-side.
-**_B: Components are indepedent reusable pieces of code._**
+**_B: Components are independent reusable pieces of code._**
 C: Components are dependency manager.
 D: Components are performance optimizer.
 
@@ -215,7 +215,7 @@ Q32: What is a presentational component?
 
 A: It is a CSS component.
 B: It is a component focuses on rendering what users see.
-**_C: It is a a pure component._**
+**_C: It is a pure component._**
 D: It is a not a component.
 
 Q33: Which sentence does not describe a staging environment?
@@ -225,7 +225,7 @@ B: It prepares the readiness for production.
 **_C: It is used for development testing._**
 D: It is used for acceptance testing.
 
-Q34: What ar environment variables?
+Q34: What are environment variables?
 
 A: They are not variable used in application.
 B: They are variables used in operating system only.
@@ -235,7 +235,7 @@ D: They are variables used for networking purposes.
 Q35: Which of the following is part of the three pillars in SCRUM Theory?
 
 **_A: Competency_**
-B: Tranparency 
+B: Transparency 
 C: Inspection 
 D: Adaptation
 
@@ -290,7 +290,7 @@ D: CI corrects itself when a test fails.
 
 Q43: What is the advantage of CD?
 A: It comes with application security features.
-**_B: It automatically deploy to every environments in the pipeline as long as the build is successful._**
+**_B: It automatically deploy to every environment in the pipeline as long as the build is successful._**
 C: It delivers software in modular approach.
 D: It monitors error logs in the entire solutions architecture.
 
