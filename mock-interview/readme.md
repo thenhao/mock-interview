@@ -46,6 +46,9 @@ React:
 5. What is a state in the context of React?
 6. Explain how Axios can be used to communicate with the backend server.
 
-
+React Native:
+1. What is the difference between React and React Native?
+2. How can engines be integrated with React Native?
+3. How do you take into account the difference in screen sizes of mobile phones?
 
 
