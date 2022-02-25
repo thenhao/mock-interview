@@ -7,18 +7,17 @@ This is an 50-item assessment exam that would test the learnings from the start 
 
 Q1. Which of the following is not a value of CSS Position?
 
-A: absolute
-B: relative
-C: static
-**_D: top_**
-
+A: absolute  
+B: relative  
+C: static  
+**_D: top_**  
 
 Q2. Which is not part of a box model?
 
-**_A: Query_**
-B: Padding
-C: Border
-D: Margin
+**_A: Query_**  
+B: Padding  
+C: Border  
+D: Margin  
 
 Q3. Should {display:flex} applies to parent or child element?
 
