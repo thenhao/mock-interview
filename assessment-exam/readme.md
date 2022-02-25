@@ -196,11 +196,11 @@ B: componentDidUpdate()
 C: componentWillUnmount()  
 **_D: All of the above._**  
 
-Q30: What is the default behaviour of a <form> submission?
+Q30: What is the default behaviour of a < form > submission?
 
 A: There is no default behaviour.  
 **_B: A form submission submits form data to a server._**  
-C: It collaborates all data given within the <form>.  
+C: It collaborates all data given within the < form >.  
 D: It simply refreshes the page.  
 
 Q31: What is the definition of "view"?
@@ -314,7 +314,7 @@ B: The native applications runs on JavaScript.
 C: The JavaScript is being transpiled into Android and iOS specific programming language.  
 D: The entire project is transpiled into hybrid web application that looks like a mobile app.  
 
-Q47: All stack navigators must be rendered within <NavigationContainer> component.
+Q47: All stack navigators must be rendered within < NavigationContainer > component.
 
 **_A: True_**  
 B: False   
