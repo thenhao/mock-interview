@@ -12,4 +12,5 @@ Enter last name: Doe
 Would you like to enter another name? no
 The first name is John, the last name is Smith.
 The first name is Jane, the last name is Doe.
+Please use your browser to test the application.
 */

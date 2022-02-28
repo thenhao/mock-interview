@@ -23,8 +23,8 @@ D: Margin
 ---
 Q3. Should {display:flex} applies to parent or child element?
 
-A: Parent  
-**_B: Child_**  
+**_A: Parent_**  
+B: Child  
 C: Both  
 
 ---
@@ -244,9 +244,9 @@ D: The template used to generate the UI.
 Q32: What is a presentational component?
 
 A: It is a CSS component.  
-B: It is a component focuses on rendering what users see.  
-**_C: It is a pure component._**  
-D: It is a not a component.  
+**_B: It is a component focuses on rendering what users see._**  
+C: It is a pure component.  
+D: It is not a component.  
 
 ---
 Q33: Which sentence does not describe a staging environment?
@@ -265,7 +265,7 @@ B: They are variables used in operating system only.
 D: They are variables used for networking purposes.  
 
 ---
-Q35: Which of the following is part of the three pillars in SCRUM Theory?
+Q35: Which of the following is NOT part of the three pillars in SCRUM Theory?
 
 **_A: Competency_**  
 B: Transparency   
