@@ -2,7 +2,7 @@
 Create a function that check if a year is a leap year or not. 
 Part of the exercise is to research how to compute for leap year.
 Specifications:
-1. The program should be able to get inputs from the console.
+1. The program should be able to get inputs from the user.
 2. The program should only take in POSITIVE integer values. Include checks for the input values.
 3. The program should output using the following format:
     "<Year> is / is not a leap year"
