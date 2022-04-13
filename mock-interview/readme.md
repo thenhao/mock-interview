@@ -46,6 +46,42 @@ React:
 5. What is a state in the context of React?
 6. Explain how Axios can be used to communicate with the backend server.
 
+React:
+
+What is JSX?
+It is Javascript extension and it enables us to write HTML using Javascript
+
+
+What are props and hooks?
+Props are read only data  that is passed from the parent to the child components.
+Hooks are used in functional components for state and other react features. Examples include useState, useEffect, useRef
+
+
+
+Why are components used in React?
+Components are used so that one is able to split up the entire UI into independent and more reusable blocks of code. This allows one to work on it in isolation and not affect other parts of the code. 
+
+E.g. Class and Functional Components
+
+
+
+What is the difference between DOM and Virtual DOM?
+
+The Document Object Model is the data representation of the objects that comprise the structure and content of a document on the web. The virtual DOM is a lightweight representation of the DOM. In the virtual DOM, you cannot directly manipulate the HTML, you have to use JSX. Through the process of “diffing”, React figures out exactly which virtual DOM objects have changed and updates those objects.
+
+
+What is a state in the context of React?
+
+The state is a built-in object in React that is used to contain data or info about a component. A component’s state can change over time, and as it does, it re-renders.
+
+
+Explain how Axios can be used to communicate with the backend server.
+
+
+It is a library which is used to make Get, Post, Put  requests to an API, return data from the API, and then do things with that data in our React application. 
+
+
+
 React Native:
 1. What is the difference between React and React Native?
 2. How can engines be integrated with React Native?
